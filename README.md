@@ -1,6 +1,4 @@
-Certainly! Below is a template for a README file that you can use to document your code:
 
-```markdown
 # Salary Prediction Model
 
 ## Introduction
